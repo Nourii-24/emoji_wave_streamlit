@@ -12,7 +12,7 @@ st.markdown("""
 # Display centered and larger GIF
 col1, col2, col3 = st.columns([1, 2, 1])
 with col2:
-    st.image("/home/noura1/code/Nourii-24/emoji-wave/EmojiWave-unscreen (1).gif", width=900)
+    st.image("EmojiWave-unscreen (1).gif", width=900)
 
 # Add more vertical space
 st.markdown("<br><br><br>", unsafe_allow_html=True)
